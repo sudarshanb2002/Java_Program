@@ -5,5 +5,5 @@
  * @author Darshini
  *
  */
-module placement {
+module week {
 }
