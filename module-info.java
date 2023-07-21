@@ -5,5 +5,5 @@
  * @author Darshini
  *
  */
-module Codingmart {
+module placement {
 }
